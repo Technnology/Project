@@ -1,0 +1,111 @@
+<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+<link rel="stylesheet" href="alive.css">
+
+<div class="wrapper">
+    <div class="sidebar">
+        <h2>cars menu</h2>
+        
+        <ul>
+            
+            
+            <li><a href="maruti.html"><i class="fas fa-car"></i>Maruti</a></li>
+            
+            <li><a href="honda.html"><i class="fas fa-car"></i>Honda</a></li>
+            <li><a href="mahindra.html"><i class="fas fa-car"></i>mahindra</a></li>
+            
+            <li><a href="bmw.html"><i class="fas fa-car"></i>BMW</a></li>
+            <li><a href="audi.html"><i class="fas fa-car"></i>Audi</a></li>
+           
+        </ul> 
+        <div class="social_media">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+
+</body>
+
+    <div class="main_content">
+        <div class="header">Welcome!! Have a nice day.</div>  
+        <div class="info">
+            <div class="content">
+                <div class="gallery">
+                    <div class="content">
+                    <img src="image.jpg">
+                    <h3>MINI COPPER</h3>
+                    <p>sjhfcjugsfgsdagfjhgsajkfhjksdah</p>
+                    <h6>$100.00</h6>
+                    <ul>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                    </ul>
+                    <button class="buy">Buy Now</button>
+                </div>
+                    <div class="content">
+                    <img src="cdf.jpg">
+                    <h3>AUDI</h3>
+                    <p>sjhfcjugsfgsdagfjhgsajkfhjksdah</p>
+                    <h6>$100.00</h6>
+                    <ul>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                    </ul>
+                    <button class="buy">Buy Now</button>
+                </div>
+                <div class="content">
+                    <img src="efg.jpg">
+                    <h3>BMW</h3>
+                    <p>sjhfcjugsfgsdagfjhgsajkfhjksdah</p>
+                    <h6>$100.00</h6>
+                    <ul>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                    </ul>
+                    <button class="buy">Buy Now</button>
+                </div>
+                <div class="content">
+                    <img src="hij.jpg">
+                    <h3>FERRARI</h3>
+                    <p>sjhfcjugsfgsdagfjhgsajkfhjksdah</p>
+                    <h6>$100.00</h6>
+                    <ul>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                    </ul>
+                    <button class="buy">Buy Now</button>
+                    
+                </div>
+                <div class="content">
+                    <img src="ijk.jpg">
+                    <h3>PORSH</h3>
+                    <p>sjhfcjugsfgsdagfjhgsajkfhjksdah</p>
+                    <h6>$100.00</h6>
+                    <ul>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                        <li><i class="fa fa-star checked"></i></li>
+                    </ul>
+                    <button class="buy">Buy Now</button>
+                </div>
+                
+          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+          <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A sed nobis ut exercitationem atque accusamus sit natus officiis totam blanditiis at eum nemo, nulla et quae eius culpa eveniet voluptatibus repellat illum tenetur, facilis porro. Quae fuga odio perferendis itaque alias sint, beatae non maiores magnam ad, veniam tenetur atque ea exercitationem earum eveniet totam ipsam magni tempora aliquid ullam possimus? Tempora nobis facere porro, praesentium magnam provident accusamus temporibus! Repellendus harum veritatis itaque molestias repudiandae ea corporis maiores non obcaecati libero, unde ipsum consequuntur aut consectetur culpa magni omnis vero odio suscipit vitae dolor quod dignissimos perferendis eos? Consequuntur!</div>
+      </div>
+    </div>
+</div>
